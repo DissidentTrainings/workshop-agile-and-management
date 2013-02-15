@@ -35,11 +35,33 @@ Wikipedia: Spontaneous Order
 
 ### What is Scrum
 
+In 1986, Hirotaka Takeuchi and Ikujiro Nonaka described a new approach to commercial product development that would increase speed and flexibility, based on case studies from manufacturing firms in the automotive, photocopier and printer industries.[4] They called this the holistic or rugby approach, as the whole process is performed by one cross-functional team across multiple overlapping phases, where the team "tries to go the distance as a unit, passing the ball back and forth".[4]
+In rugby football, a scrum refers to the manner of restarting the game after a minor infraction. In the early 1990s, Ken Schwaber used what would become Scrum at his company, Advanced Development Methods, and Jeff Sutherland, with John Scumniotales and Jeff McKenna, developed a similar approach at Easel Corporation, and were the first to refer to it using the single word Scrum.[5]
+
 #### Roles
+
+* Product Owner
+* Scrum Master
+* Team Member
+* Stakeholder
+* Managers
 
 #### Ceremonies 
 
+* Planning Meeting 
+* Review
+* Retro
+* Estimation Meeting
+* Daily Standup
+
 #### Artefacts
+
+* Increment
+* Product Backlog 
+* Sprint Backlog 
+* Sprint Board
+* User Story 
+* Burndown Chart
 
 ##  Management Day
 
