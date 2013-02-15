@@ -78,8 +78,6 @@ Wikipedia: Spontaneous Order
 ### 5 Dysfunctions Examples
 * Give a example for each of the 5 Dysfunctions
 
-
-
 ## References 
 * http://www.aamngt.com/files/agilemngt.pdf
 * http://www.ccpace.com/resources/documents/agileprojectmanagement.pdf
