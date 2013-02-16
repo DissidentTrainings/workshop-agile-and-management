@@ -48,11 +48,28 @@ In rugby football, a scrum refers to the manner of restarting the game after a m
 
 #### Roles
 
-* Product Owner
-* Scrum Master
-* Team Member
-* Stakeholder
-* Managers
+__Product Owner__
+The Product Owner represents the stakeholders and is the voice of the customer. He or she is accountable for ensuring that the team delivers value to the business. The Product Owner writes customer-centric items (typically user stories), prioritizes them, and adds them to the product backlog. Scrum teams should have one Product Owner, and while they may also be a member of the development team, it is recommended that this role not be combined with that of ScrumMaster.[9]
+
+__Development Team__
+The Development Team is responsible for delivering potentially shippable product increments at the end of each Sprint. A Development Team is made up of 3–9 people with cross-functional skills who do the actual work (analyse, design, develop, test, technical communication, document, etc.). The Development Team in Scrum is self-organizing, even though they may interface with project management organizations (PMOs).
+
+__ScrumMaster__
+Scrum is facilitated by a ScrumMaster, who is accountable for removing impediments to the ability of the team to deliver the sprint goal/deliverables. The ScrumMaster is not the team leader, but acts as a buffer between the team and any distracting influences. The ScrumMaster ensures that the Scrum process is used as intended. The ScrumMaster is the enforcer of rules. A key part of the ScrumMaster’s role is to protect the Development Team and keep it focused on the tasks at hand. The role has also been referred to as a servant-leader to reinforce these dual perspectives.
+The ScrumMaster differs from a Project Manager in that the latter may have people management responsibilities unrelated to the role of ScrumMaster. The ScrumMaster role excludes any such additional people responsibilities.
+
+__Other Roles__
+
+__Test and Evaluation Team__
+In some cases the team may have the developers find, document, and report all bugs or defects found within the program. In some cases the team may have a specific Test and Evaluation Team. This team is responsible for finding, documenting, and reporting all bugs or defects to the rest of the team. The team may also be in charge of testing the newly implemented code that the developers write.
+
+__Stakeholders__
+The stakeholders are the customers, vendors. They are people who enable the project and for whom the project produces the agreed-upon benefit[s] that justify its production. They are only directly involved in the process during the sprint reviews.
+
+__Managers__
+People who control the work environmen
+
+
 
 #### Ceremonies 
 
