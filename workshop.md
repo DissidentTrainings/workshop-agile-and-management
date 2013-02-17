@@ -67,9 +67,7 @@ __Stakeholders__
 The stakeholders are the customers, vendors. They are people who enable the project and for whom the project produces the agreed-upon benefit[s] that justify its production. They are only directly involved in the process during the sprint reviews.
 
 __Managers__
-People who control the work environmen
-
-
+People who control the work environment.
 
 #### Ceremonies 
 
@@ -94,12 +92,34 @@ People who control the work environmen
 
 * Taylorism
 * Fordism
-* Offshoring
 
 ### What is the problem with Agile
 
 * Present the Agile Manifesto
 * Discuss where this conflicts with Taylorism and Fordism
+
+### Kaizen 
+
+#### 5S 
+
+* sort
+* stabilize
+* shine
+* standardize
+* sustain
+
+#### 7W - 7 Forms of Waste
+
+* Defects
+* Over-Production
+* Waiting
+* Transporting
+* Movement 
+* Inappropriate Processing
+* Inventory
+
+### The Toyota Principles
+
 
 ### 5 Dysfunctions
 
@@ -133,3 +153,6 @@ People who control the work environmen
 * http://en.wikipedia.org/wiki/Agile_management
 * http://en.wikipedia.org/wiki/Iterative_and_incremental_development
 * http://en.wikipedia.org/wiki/Spontaneous_order
+* http://en.wikipedia.org/wiki/The_Toyota_Way
+* http://icos.groups.si.umich.edu/Liker04.pdf
+* http://www.mlg.uk.com/html/7w.htm
