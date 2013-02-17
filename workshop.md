@@ -227,6 +227,9 @@ People who control the work environment.
 ### 5 Dysfunctions Examples
 * Give a example for each of the 5 Dysfunctions
 
+### Theory of Constraints - Dice game 
+http://tastycupcakes.org/2009/06/theory-of-constraints-dice-game/
+
 ## References 
 * http://www.aamngt.com/files/agilemngt.pdf
 * http://www.ccpace.com/resources/documents/agileprojectmanagement.pdf
@@ -239,3 +242,5 @@ People who control the work environment.
 * http://icos.groups.si.umich.edu/Liker04.pdf
 * http://www.mlg.uk.com/html/7w.htm
 * http://en.wikipedia.org/wiki/Digital_Taylorism
+* http://www.agile42.com/en/blog/2011/09/18/feature-injection-applied-service-delivery/
+
