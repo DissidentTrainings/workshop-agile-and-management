@@ -120,6 +120,88 @@ People who control the work environment.
 
 ### The Toyota Principles
 
+#### Base your management decisions on a long term-philosophy, even at the expense of short-term financial goals
+
+* Have a sense of purpose that is considered when doing short term decisions
+* generate value for the customer, society and the economy
+* Be responsible. Be the master of your own fate and decisions
+
+#### Create a continuous process flow to bring problems to the surface
+
+* Dont wait for "Post Mortems" after a project is finished 
+* Never shoot the messenger
+* Make sure to appreachiate the knowledge of the problems. 
+
+#### Use "pull" Systems to avoid overproduction
+
+* Not only overproduction, but standstill can occur
+* Dont build a artificial schedule like the soviet empires
+* Talk t the customer what he wants and when he wants it 
+
+#### Level out the workload (heijunka) 
+
+* No overhours
+* Constant Workload for everyone
+* It is important for meassurements
+
+#### Build a culture of stopping to fix problems, to get quality right the first time
+
+* Dont write Bugs into Bugtrackers, fix them
+* Important Problems: Fix them, now
+* Dont apprach these Problems efficiently but effectively
+
+#### Standardized tasks and processes are the foundation for continuous improvement and employee empowerment
+
+* Let employees create these Standards 
+* Let employees update them as well
+* This way you dont have to managage to much
+
+#### Use visual (simple) controls, so no problems are hidden
+
+* Kanban and Scrum Boards are "in your face"
+* Are you in Standard Condition or deviating from it? Burndowncharts are a example
+* Reduce reports to a minimum when they are on Paper. Once pece of it will do.
+
+#### Use only reliable, thoroughly tested technology that serves your people and processes
+
+* Think: Unit Tests and Stable Versions. 
+* Do your developers have the best Technology avail? 
+* Support people, not replace them
+* Test new Technology, before you start a project with it
+
+#### Grow leaders who thoroughly understand the work, live the philosophy, and teach it to others
+
+* Grow leaders from within, rather than hire them from the outside
+* Leaders must be role models of the company’s philosophy and way of doing business.
+* Leaders must have real understanding of real work
+
+#### Develop exceptional people and teams who follow your companies philosophy 
+
+* A strong culture should be lived for multiple years
+* Cross functional teams have prooven to produce exceptional people. Crossing the disciplines creates exceptional People
+* Continualy teach people how to work as a team. Our schools dont teach this, dont expect people to bring this knowledge to the table. They rarely do
+
+#### Respect your extended Network of partners and suppliers by challenging them and helping them to improve
+
+* They are part of your business
+* Set challenging goals and help achieving them (not unrealistic goals)
+
+#### Go and see for yourself to thoroughly understand the situation (genchi genbutsu)
+
+* Go and ask people personally about the problems that exist
+* Going and seing for oneself gives you a real 
+
+#### Make decisions slowly by concensus, thorougly considering all options; implement decisions rapidly
+
+* Do not make a decision until all possibilities are researched
+* Nemawashi - Talk to all people affected by a decision. Collect their ideas and gettheir agreement
+* Timeconsuming, but decisions stick way better
+
+#### Become a learning Organization through relentless reflection (hansei) and contiuous improvement (kaizen)
+
+* Retrospectives and the improvements out of it make this happen
+* Create a culture where errors can be communicated openly 
+* Find the root cause and Effects, dont focus on Symptoms
 
 ### 5 Dysfunctions
 
@@ -156,3 +238,4 @@ People who control the work environment.
 * http://en.wikipedia.org/wiki/The_Toyota_Way
 * http://icos.groups.si.umich.edu/Liker04.pdf
 * http://www.mlg.uk.com/html/7w.htm
+* http://en.wikipedia.org/wiki/Digital_Taylorism
